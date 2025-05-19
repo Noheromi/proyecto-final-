@@ -6,8 +6,11 @@ Aqui esta mis codigos de la materia de programacion numerica
 tema 1 **Repaso**
 
 1.[Ejemlo 1](https://github.com/Noheromi/proyecto-final-/blob/main/parte%201%2C2%20noheromi.m.m)
+
 2.[Ejemplo 2](https://github.com/Noheromi/proyecto-final-/blob/main/practica.m)
+
 3.[Ejemplo 3](https://github.com/Noheromi/proyecto-final-/blob/main/practica41.m)
+
 4.[Ejemplo 4](https://github.com/Noheromi/proyecto-final-/blob/main/untitled6.m)
 
 tema 2 **Raices de Ecuaciones**
